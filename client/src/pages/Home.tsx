@@ -15,10 +15,10 @@ export default function Home() {
         <section className="border-b border-border bg-muted/30">
           <div className="container py-16">
             <h2 className="text-5xl md:text-6xl font-bold mb-6 max-w-4xl">
-              Essays on Music, Culture, and Sound
+              Music, Money & Meaning
             </h2>
             <p className="text-xl text-muted-foreground max-w-2xl leading-relaxed">
-              A collection of thoughtful writing exploring the art, history, and cultural significance of music across all genres and traditions.
+              Essays exploring the intersection of music, economics, philosophy, and the human condition. Where art meets commerce, and sound meets significance.
             </p>
           </div>
         </section>

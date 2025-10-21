@@ -4,7 +4,7 @@ export default function Footer() {
       <div className="container py-12">
         <div className="flex flex-col items-center justify-center text-center">
           <p className="text-sm text-muted-foreground">
-            © {new Date().getFullYear()} Music Essays. A platform for thoughtful writing about music.
+            © {new Date().getFullYear()} Music, Money & Meaning. Exploring the intersection of music, economics, and philosophy.
           </p>
           <p className="text-xs text-muted-foreground mt-2">
             All articles are the property of their respective authors.
