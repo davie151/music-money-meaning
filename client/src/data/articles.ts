@@ -11,6 +11,86 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "7",
+    title: "The Habits of Genius: Curiosity",
+    author: "David Steinberg",
+    date: "September 1, 2025",
+    category: "Philosophy",
+    excerpt: "Curiosity is not passive, but aggressive inquiry, the refusal to accept surfaces. The curious mind treats every answer as a doorway to ten new questions.",
+    content: `To me curiosity is not passive, but aggressive inquiry, the refusal to accept surfaces. The curious mind treats every answer as a doorway to ten new questions. It is intellectual trespass, enacted daily.
+
+True curiosity is uncomfortable. It demands you abandon the warmth of certainty for the cold of not-knowing. Children ask "why" until adults grow weary; genius never stops asking. It sees the familiar as foreign, the ordinary as encrypted. Where others see a falling apple, curiosity sees a planet pulling.
+
+**Historical Examples**
+
+Leonardo da Vinci's notebooks held 13,000 pages of questions—from "Why does the eye see a thing more clearly in dreams?" to detailed sketches of unborn children he obtained through dealings with grave robbers. His curiosity was amoral in its hunger.
+
+Barbara McClintock spent six decades studying corn genetics in scientific exile. She spoke of "listening" to what each plant wanted to tell her, developing such intimacy with maize chromosomes that she could identify each one by sight. When her jumping genes theory was finally accepted, she was 81. "I knew I was right," she said. The Nobel committee agreed, forty years late.
+
+In 1847, Ignaz Semmelweis noticed that maternity wards staffed by doctors had three times the mortality rate of those run by midwives. His curiosity was specific: why? He discovered doctors performed autopsies before delivering babies—without washing their hands. His solution dropped mortality from 18% to 1%. His reward? Colleagues had him institutionalized. He died in an asylum, beaten by guards. Curiosity can be fatal to its bearer.`,
+    imageUrl: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80"
+  },
+  {
+    id: "8",
+    title: "The Habits of Genius: Passion",
+    author: "David Steinberg",
+    date: "September 1, 2025",
+    category: "Philosophy",
+    excerpt: "Passion is compulsion, not enthusiasm. It is the difference between interest and possession. The passionate do not choose their subject—they are colonized by it.",
+    content: `Passion is compulsion, not enthusiasm. It is the difference between interest and possession. The passionate do not choose their subject—they are colonized by it. This is not the passion of motivational posters. This is closer to illness than to inspiration.
+
+Passion is fundamentally unreasonable. It makes you forget to eat, ruins relationships, empties bank accounts. It is not sustainable or balanced—those are words for hobbies. Real passion is a kind of productive madness, a beneficial obsession that happens to create rather than destroy. The passionate person is not admirable so much as afflicted. The work is not a choice but a metabolic necessity.
+
+**Historical Examples**
+
+Vincent van Gogh produced over 2,100 artworks in a decade—sometimes three paintings in a single day. He sold one painting in his lifetime. He ate his paints when he couldn't afford food, writing to his brother: "The chrome yellow tastes of joy." His passion literally consumed him.
+
+Marie Curie carried radioactive isotopes in her pockets, loving their pretty glow. Her laboratory notebooks are still radioactive 100 years later—they'll remain so for another 1,500 years. She died from her passion, her bone marrow destroyed by the very elements she discovered. When offered a lucrative patent for radium extraction, she refused: "Radium belongs to all humanity."
+
+Gregor Mendel bred 29,000 pea plants over eight years in monastery obscurity, hand-pollinating each one with a paintbrush, tracking seven characteristics through multiple generations. His fellow monks thought him mad. He presented his findings to forty scientists—none understood. He died unknown, his papers burned by his successor. Sixteen years after his death, three scientists independently rediscovered his work. The entire field of genetics was hiding in one man's garden, waiting.`,
+    imageUrl: "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=800&q=80"
+  },
+  {
+    id: "9",
+    title: "The Habits of Genius: Imagination",
+    author: "David Steinberg",
+    date: "September 1, 2025",
+    category: "Philosophy",
+    excerpt: "Imagination is not daydreaming. It is active construction. The imaginative mind builds complete worlds, then reverse-engineers them into existence.",
+    content: `Imagination does not escape reality—it is the discipline to see what is not yet allowed and to live in that unseen world until the existing one concedes. It is an act of rebellion against the tyranny of the real.
+
+Imagination is not daydreaming. It is romanticized as such, but I see it as active construction. The imaginative mind builds complete worlds, then reverse-engineers them into existence. It sees not what is, but what must become. This requires a kind of stubborn faith: holding the imagined thing so clearly that others begin to see it too. Imagination is contagious unreality that gradually infects the actual.
+
+**Historical Examples**
+
+Einstein's thought experiments were children's games with universe-breaking consequences. At 16, he imagined chasing a light beam. This juvenile fantasy unraveled Newton's cosmos. Later, he imagined falling in an elevator, feeling weightless—and realized gravity and acceleration were identical. He never performed these experiments. He didn't need to. "Imagination is more important than knowledge," he said, "for knowledge is limited to all we now know and understand, while imagination embraces the entire world."
+
+Nikola Tesla claimed he could test inventions entirely in his mind, running virtual machines for weeks, then mentally disassembling them to check for wear. "Before I put a sketch on paper, the whole idea is worked out mentally. I change the construction, make improvements, and even operate the device in my mind." His alternating current system was debugged in imagination before metal was touched.
+
+Elias Howe struggled for years to design a working sewing machine. One night, he dreamed he was captured by cannibals who threatened to kill him unless he invented one. In the dream, he noticed their spears had holes near the tips. He woke at 4 AM and rushed to his workshop—the eye of the needle needed to be at the point, not the base. The solution came from a nightmare about dancing cannibals. Imagination doesn't discriminate in its sources.`,
+    imageUrl: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80"
+  },
+  {
+    id: "10",
+    title: "The Habits of Genius: Childlike Perspective",
+    author: "David Steinberg",
+    date: "September 1, 2025",
+    category: "Philosophy",
+    excerpt: "The adult learns categories; the child sees without them. Genius reclaims that vision, stripping away convention to expose what is raw.",
+    content: `The adult learns categories; the child sees without them. Genius reclaims that vision, stripping away convention to expose what is raw. This is why genius appears naïve: it chooses the eye that is untrained, and therefore unblinded.
+
+The childlike perspective is not innocence but a cultivated ignorance of impossibility. Children don't know what can't be done, so they attempt everything. Adults learn limitations; genius unlearns them. This requires a deliberate forgetting, a strategic amnesia about how things "should" work. The childlike mind asks forbidden questions because it doesn't know they're forbidden. It combines things that don't belong together because no one told it they were separate.
+
+**Historical Examples**
+
+Pablo Picasso spent his youth mastering classical technique, then his adulthood destroying it. "It took me four years to paint like Raphael, but a lifetime to paint like a child." His late works look primitive, almost clumsy—this was decades of unlearning. He drew bulls by reducing them, stroke by stroke, until only three lines remained. The simplicity was harder than the complexity.
+
+Richard Feynman taught himself to see without naming. He'd look at a flower and forget the word "flower," seeing only colors and shapes. He played bongos for ballet dancers, picked locks at Los Alamos for fun, drew nude models while working on quantum mechanics. When asked about his Nobel Prize, he said: "I do not like honors. I've already got the prize: the pleasure of finding things out."
+
+Mathematician Srinivasa Ramanujan had almost no formal training. He rediscovered centuries of Western mathematics alone, creating his own notation. When Hardy, the British mathematician, received Ramanujan's first letter, he nearly dismissed it as the work of a crank—the notation was all wrong. Then he realized: Ramanujan had independently derived theorems that took Europe 300 years to develop. His childlike approach, uncontaminated by convention, led him to truths by paths no trained mathematician would take. "An equation means nothing to me," he said, "unless it expresses a thought of God."`,
+    imageUrl: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=800&q=80"
+  },
+  {
     id: "0",
     title: "The Paradox of Freedom: Questions & No Answers",
     author: "Peter Lake",
