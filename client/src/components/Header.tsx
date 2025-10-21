@@ -14,6 +14,15 @@ export default function Header() {
             <Link href="/" className="text-sm font-medium hover:text-accent transition-colors">
               Home
             </Link>
+            <Link href="/money" className="text-sm font-medium hover:text-accent transition-colors">
+              Money
+            </Link>
+            <Link href="/meaning" className="text-sm font-medium hover:text-accent transition-colors">
+              Meaning
+            </Link>
+            <Link href="/music" className="text-sm font-medium hover:text-accent transition-colors">
+              Music
+            </Link>
             <Link href="/about" className="text-sm font-medium hover:text-accent transition-colors">
               About
             </Link>

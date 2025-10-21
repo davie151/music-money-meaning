@@ -15,7 +15,7 @@ export const articles: Article[] = [
     title: "The Habits of Genius: Curiosity",
     author: "David Steinberg",
     date: "September 1, 2025",
-    category: "Philosophy",
+    category: "Meaning",
     excerpt: "Curiosity is not passive, but aggressive inquiry, the refusal to accept surfaces. The curious mind treats every answer as a doorway to ten new questions.",
     content: `To me curiosity is not passive, but aggressive inquiry, the refusal to accept surfaces. The curious mind treats every answer as a doorway to ten new questions. It is intellectual trespass, enacted daily.
 
@@ -35,7 +35,7 @@ In 1847, Ignaz Semmelweis noticed that maternity wards staffed by doctors had th
     title: "The Habits of Genius: Passion",
     author: "David Steinberg",
     date: "September 1, 2025",
-    category: "Philosophy",
+    category: "Meaning",
     excerpt: "Passion is compulsion, not enthusiasm. It is the difference between interest and possession. The passionate do not choose their subject—they are colonized by it.",
     content: `Passion is compulsion, not enthusiasm. It is the difference between interest and possession. The passionate do not choose their subject—they are colonized by it. This is not the passion of motivational posters. This is closer to illness than to inspiration.
 
@@ -55,7 +55,7 @@ Gregor Mendel bred 29,000 pea plants over eight years in monastery obscurity, ha
     title: "The Habits of Genius: Imagination",
     author: "David Steinberg",
     date: "September 1, 2025",
-    category: "Philosophy",
+    category: "Meaning",
     excerpt: "Imagination is not daydreaming. It is active construction. The imaginative mind builds complete worlds, then reverse-engineers them into existence.",
     content: `Imagination does not escape reality—it is the discipline to see what is not yet allowed and to live in that unseen world until the existing one concedes. It is an act of rebellion against the tyranny of the real.
 
@@ -75,7 +75,7 @@ Elias Howe struggled for years to design a working sewing machine. One night, he
     title: "The Habits of Genius: Childlike Perspective",
     author: "David Steinberg",
     date: "September 1, 2025",
-    category: "Philosophy",
+    category: "Meaning",
     excerpt: "The adult learns categories; the child sees without them. Genius reclaims that vision, stripping away convention to expose what is raw.",
     content: `The adult learns categories; the child sees without them. Genius reclaims that vision, stripping away convention to expose what is raw. This is why genius appears naïve: it chooses the eye that is untrained, and therefore unblinded.
 
@@ -95,7 +95,7 @@ Mathematician Srinivasa Ramanujan had almost no formal training. He rediscovered
     title: "The Paradox of Freedom: Questions & No Answers",
     author: "Peter Lake",
     date: "October 21, 2025",
-    category: "Philosophy",
+    category: "Meaning",
     excerpt: "Will freedom ultimately feel like an interlude between different states? An exploration of how freedom itself can create new forms of coercion, and what this means for achievement culture in modern life.",
     content: `Will freedom ultimately feel like an interlude between different states? These questions may be irrelevant given our lifespan, but they're worth asking. Freedom is hard to define in absolute terms—perhaps it's easier to define by its opposite. Freedom becomes the transition from constraint to liberation, a feeling of having moved from captivity to possibility. This sidesteps the definition altogether.
 
@@ -149,7 +149,7 @@ Are these signs that freedom is leading to pathology?`,
     title: "The Resonance of Silence: John Cage and the Art of Listening",
     author: "Elena Martinez",
     date: "October 18, 2025",
-    category: "Classical",
+    category: "Music",
     excerpt: "An exploration of how John Cage's 4'33\" redefined our understanding of music, silence, and the act of listening itself.",
     content: `John Cage's infamous composition 4'33\" stands as one of the most provocative works in twentieth-century music. Premiered in 1952, the piece consists of three movements during which the performer does not play their instrument. What emerges is not silence, but rather the ambient sounds of the environment—the rustling of programs, coughs from the audience, the hum of ventilation systems.
 
@@ -165,7 +165,7 @@ The legacy of 4'33\" extends far beyond the concert hall. It influenced generati
     title: "Afrobeat's Global Revolution: From Lagos to the World",
     author: "Kwame Osei",
     date: "October 15, 2025",
-    category: "World Music",
+    category: "Music",
     excerpt: "Tracing the evolution of Afrobeat from Fela Kuti's political anthems to its contemporary global influence.",
     content: `Afrobeat emerged in the late 1960s and early 1970s as a revolutionary fusion of West African musical traditions, jazz, funk, and highlife. At its center was Fela Kuti, the Nigerian multi-instrumentalist, composer, and political activist who used music as a weapon against corruption and oppression.
 
@@ -183,7 +183,7 @@ The global rise of Afrobeat represents more than musical influence. It signals a
     title: "The Synthesizer's Soul: Electronic Music and Human Expression",
     author: "Sarah Chen",
     date: "October 12, 2025",
-    category: "Electronic",
+    category: "Music",
     excerpt: "How electronic instruments, often dismissed as cold and mechanical, became vehicles for profound emotional expression.",
     content: `There's a persistent myth that electronic music is somehow less human than acoustic music. Critics have long argued that synthesizers and drum machines produce sterile, emotionless sounds compared to the warmth of traditional instruments. This perspective fundamentally misunderstands both the nature of electronic music and the essence of musical expression.
 
@@ -201,7 +201,7 @@ As we move further into the twenty-first century, the distinction between electr
     title: "Jazz at the Margins: The Forgotten Women of Bebop",
     author: "Marcus Williams",
     date: "October 8, 2025",
-    category: "Jazz",
+    category: "Music",
     excerpt: "Recovering the stories of female instrumentalists who shaped bebop but were written out of jazz history.",
     content: `The standard narrative of bebop's development focuses almost exclusively on male innovators: Charlie Parker, Dizzy Gillespie, Thelonious Monk, Bud Powell. This history is not wrong, but it is incomplete. Women were present in bebop's formative years, contributing as instrumentalists, composers, and bandleaders, yet their stories have been systematically marginalized or erased.
 
@@ -219,7 +219,7 @@ Recovering these stories matters not just for historical accuracy but for unders
     title: "Punk's Paradox: Authenticity and Commodification",
     author: "Jamie Rodriguez",
     date: "October 5, 2025",
-    category: "Rock",
+    category: "Music",
     excerpt: "Examining the tension between punk's anti-establishment ethos and its inevitable absorption into mainstream culture.",
     content: `Punk rock emerged in the mid-1970s as a rejection of mainstream rock's perceived bloat and pretension. With its DIY ethos, aggressive simplicity, and anti-establishment politics, punk positioned itself as authentic expression against commercial artifice. Yet from its inception, punk has been entangled with the very commercial forces it claimed to oppose.
 
@@ -237,7 +237,7 @@ Perhaps the most honest approach is to acknowledge punk's contradictions rather 
     title: "Sampling as Scholarship: Hip-Hop's Archival Practice",
     author: "Dr. Aisha Thompson",
     date: "October 1, 2025",
-    category: "Hip-Hop",
+    category: "Music",
     excerpt: "How hip-hop producers function as musical historians, preserving and recontextualizing forgotten recordings.",
     content: `Hip-hop production is often discussed in terms of creativity and innovation, but it also functions as a form of musical scholarship. Producers digging through crates of vinyl, searching for obscure breaks and forgotten melodies, are engaging in archival practice—preserving, cataloging, and recontextualizing musical history.
 
